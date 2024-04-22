@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15X-D3YzcQnqld3ZGGXWWmLSZhWPi5-D8/view?usp=sharing](https://drive.google.com/file/d/15X-D3YzcQnqld3ZGGXWWmLSZhWPi5-D8/view?usp=sharing)
 
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

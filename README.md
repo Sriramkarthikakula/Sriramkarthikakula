@@ -9,9 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriramkarthikakula" alt="sriramkarthikakula" /></a> </p>
 
 
-- 🔭 I’m currently working on **Online Attendance Flutter App**
+- 🔭 I’m currently working on **LLM's and RAG Models**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Next.Js**
 
 - 💬 Ask me about **Html, CSS, JavaScript, Bootstrap, MongoDB, ExpressJs, ReactJs, NodeJs, Flutter(App Development),Framer-Motion(React library), Python, C Programming language**
 
